@@ -1,2 +1,2 @@
 # RWKV-LPC
-[Placeholder] RWKV x LPCNet
+Nothing to see here (yet) feel free to scoop the idea (it'd be nice to make it open source though...)
